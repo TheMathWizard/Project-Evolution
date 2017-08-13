@@ -2,7 +2,8 @@
 
 Runs on a Proccessing IDE
 
-There have been 5 stages to this project
+There have been 5 stages to this project :-
+
 V2 : Monsters as spectators
 V3 : Monsters can breed and reproduce
 V4 : Debugged version. Recommended to test
